@@ -1,4 +1,6 @@
-Mountains in Wales
+---
+title: Mountains in Wales
+---
  ================
 * Pen y fan
 * Tryfan
